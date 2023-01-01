@@ -228,7 +228,7 @@ line-height: 0px;
     
 }
 .cont2{
-    padding-top: 100px;
+    padding-top:  50px;
     font-size: 20px;
     padding-left: 120px;
 }
@@ -253,14 +253,36 @@ line-height: 0px;
 
 }
 .cont33{
+ font-size: 20px   ;
+ 
+ margin-top: 50px;
+ text-align: center;
+ width: 67vw;
+ height: 42.5vh;
+ color: rgb(132, 132, 132);
+
+}
+.cont54{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cont56{
+    background-color: #3A443B;
     color: white;
-    padding: 20px;
-    font-size: 40px;
-    width: 580px;
-   margin-top: 60px;
-   padding-left:  60px; ;
-    margin-left:8vw;  
-    background-color: #3A443B; 
+    font-family:     'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    width: 65vw;
+    border-radius: 7px;
+    margin-top: 20px;
+    justify-content: center;
+}
+.cont56:hover{
+    background-color: #677869;
+    transition-duration: 0.5s;
 }
 .cont44{
     padding-top: 35px;
@@ -276,4 +298,88 @@ line-height: 0px;
     margin-top: 75px;
     padding-right: 90px;
 }
+#aboutp1{
+    width: 50vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.about3{
+    font-family:     'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.about2{
+    font-family:     'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+}
+.about4{
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
 
+}
+.about5{
+padding: 60px;  
+font-family:     'Nunito', sans-serif;
+font-family: 'Raleway', sans-serif;  
+}
+.about6{
+    font-weight: 200;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+.photo1{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family:     'Nunito', sans-serif;
+font-family: 'Raleway', sans-serif;  
+
+}
+.photo11{
+    height: 90vh;
+    margin-top: 4px;
+    padding-right: 150px;
+}
+.photo12{
+    height: 90vh;
+    margin-top: 4px;
+    padding-left: 150px;
+}
+.photo2{
+    display: flex;
+    height: 100vh;
+    font-family:     'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;  
+    align-items: center;
+}
+.photo13{
+    width: 50vw;
+    padding-right: 150px;
+}
+.photo{
+    font-family:     'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;  
+    text-align: center;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+.photo5{
+    color: white;
+}
+.photo7{
+    color: black;
+}
+.photo123{
+    width: 70vw;
+    padding-right: 50px;
+}
